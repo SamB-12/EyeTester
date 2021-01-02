@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EyeTester</string>
+    <string name="heading">Welcome to the eyeTester App </string>
+    <string name="details">Please remove your specs(if you are wearing one) and keep your phone at an arms length.See the number which will pop up and enter the same</string>
+    <string name="but1">Generate</string>
+    <string name="but2">Enter</string>
+</resources>
